@@ -1,4 +1,4 @@
-## Hello there!
+# 💫 Hello there!
 ### My name's Neil Kreuer! Welcome to my profile!
 Hi, I'm a fullstack web developer (student, but I hope this is gonna change really soon), and this is my GitHub! I'm from Belgium, and that's pretty much everything you have to know about me. Have fun looking after my projects!
 <!--
