@@ -1,6 +1,8 @@
 # Hello there! ✨
 ### My name's Neil Kreuer! Welcome to my profile!
 I'm a fullstack web developer (student, but I hope this is gonna change really soon), and this is my GitHub! I'm from Belgium, I can speak french, english, and a little german, and I think that's pretty much everything you have to know about me. Have fun looking after my projects!
+By the way, I'm still looking for an internship, so if you're looking for an intern, I'm available!
+
 <!--
 **Kreuer-Neil/Kreuer-Neil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
